@@ -1,4 +1,4 @@
-# photoshow
+# photolivebox
 
 ## By Justin
 Mit den unteren Befehlen kann das Projekt einfach gestartet werden.
