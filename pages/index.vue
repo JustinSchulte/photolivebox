@@ -74,9 +74,3 @@ export default {
   },
 }
 </script>
-
-<style scoped>
-html {
-  scrollbar-width: none;
-}
-</style>
